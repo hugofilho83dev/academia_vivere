@@ -110,4 +110,25 @@ header nav a:hover{
     display: block;
 }
 
+.acoes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+.acoes i{
+    margin: 15px;
+}
+
+.acoes div{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+
+
+
 
